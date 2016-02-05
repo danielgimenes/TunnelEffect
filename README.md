@@ -1,3 +1,3 @@
 # TunnelEffect
 
-![screenshot](docs/demopic1.png)
+![screenshot](docs/demopic2.png)
